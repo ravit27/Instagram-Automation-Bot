@@ -89,7 +89,7 @@ class Instabot:
     
 
 def main():
-   login=Instabot('demoacc_rg','sneha@2001') 
+   login=Instabot('///username///','///password///') 
    login.searchHashtag('cars')
    login.followlikePhotos(5)
 
